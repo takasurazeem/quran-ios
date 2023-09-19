@@ -5,8 +5,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/GenericDataSource/GenericDataSource",
       "state" : {
-        "revision" : "b301a090c9fb1aa664e80f3960f0930f224ee217",
-        "version" : "3.1.2"
+        "revision" : "80d3f46917afa6a1bab9a449de3d3c7ed24e6c83"
       }
     },
     {
